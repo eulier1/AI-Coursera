@@ -6,7 +6,7 @@ Legend
 
 :eyes: : currently watching
 
------------------------------
+---
 
 ## Specialization
 
@@ -26,17 +26,24 @@ Legend
 
 ### TensorFlow in Practice Specialization
 
-:ok_hand: https://www.coursera.org/learn/introduction-tensorflow 
+:ok_hand: https://www.coursera.org/learn/introduction-tensorflow
 
-:eyes: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+:ok_hand: https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
 
+:ok_hand: https://www.coursera.org/learn/natural-language-processing-tensorflow
 
 ## Certificates
 
 Intro to Tensorflow
-https://www.coursera.org/account/accomplishments/certificate/BMDSNFL2F3D4
+https://www.coursera.org/account/accomplishments/records/BMDSNFL2F3D4
 
--------------------
+Convolutional Neural Networks in TensorFlow
+https://www.coursera.org/account/accomplishments/records/ND52JFPX8FL5
+
+Natural Language Processing in TensorFlow
+https://www.coursera.org/account/accomplishments/records/9NLZUXAUNPRR
+
+---
 
 And also a place to look for, me from the future.
 
